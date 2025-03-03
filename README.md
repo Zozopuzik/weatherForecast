@@ -3,10 +3,20 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## Step 1: Clone this repo to your local machine
+Clone this repository to your local machine using Git:
+```sh
+git clone https://github.com/Zozopuzik/weatherForecast.git
+```
 
-## Step 1: Start Metro
+## Step 2: Move to project folder and install all dependencies
+```sh
+cd ./weatherForecast
+npm install 
+```
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+## Step 3: Start Metro
+First, you will need to run Metro, the JavaScript build tool for React Native.
 
 To start the Metro dev server, run the following command from the root of your React Native project:
 
@@ -24,7 +34,6 @@ With Metro running, open a new terminal window/pane from the root of your React 
 
 ### Android
 
-```sh
 # Using npm
 npm run android
 
