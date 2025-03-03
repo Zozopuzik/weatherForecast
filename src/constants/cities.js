@@ -1,0 +1,38 @@
+const cities = [
+    { name: 'Kyiv', coords: [30.523333, 50.450001] },
+    { name: 'Berlin', coords: [13.4050, 52.5200] },
+    { name: 'Paris', coords: [2.3522, 48.8566] },
+    { name: 'London', coords: [-0.1276, 51.5074] },
+    { name: 'Amsterdam', coords: [4.9041, 52.3676] },
+    { name: 'Andorra la Vella', coords: [1.5211, 42.5078] },
+    { name: 'Athens', coords: [23.7275, 37.9838] },
+    { name: 'Belgrade', coords: [20.4633, 44.8176] },
+    { name: 'Bucharest', coords: [26.1025, 44.4268] },
+    { name: 'Budapest', coords: [19.0402, 47.4979] },
+    { name: 'Chisinau', coords: [28.9794, 47.0105] },
+    { name: 'Copenhagen', coords: [12.5655, 55.6761] },
+    { name: 'Helsinki', coords: [24.9384, 60.1699] },
+    { name: 'Lisbon', coords: [-9.1395, 38.7169] },
+    { name: 'Ljubljana', coords: [14.5051, 46.0511] },
+    { name: 'Luxembourg City', coords: [6.13, 49.6117] },
+    { name: 'Madrid', coords: [-3.7038, 40.4168] },
+    { name: 'Monaco', coords: [7.4167, 43.7333] },
+    { name: 'Oslo', coords: [10.7580, 59.9127] },
+    { name: 'Podgorica', coords: [19.2636, 42.4411] },
+    { name: 'Prague', coords: [14.4208, 50.0880] },
+    { name: 'Reykjavik', coords: [-21.8954, 64.1355] },
+    { name: 'Rome', coords: [12.4964, 41.9028] },
+    { name: 'Sarajevo', coords: [18.4131, 43.8486] },
+    { name: 'Skopje', coords: [21.7178, 41.9981] },
+    { name: 'Stockholm', coords: [18.0686, 59.3293] },
+    { name: 'Tallinn', coords: [24.7535, 59.4370] },
+    { name: 'Tirana', coords: [19.8189, 41.3275] },
+    { name: 'Vaduz', coords: [9.5215, 47.1415] },
+    { name: 'Vienna', coords: [16.3731, 48.2082] },
+    { name: 'Vilnius', coords: [25.2798, 54.6892] },
+    { name: 'Warsaw', coords: [21.0122, 52.2298] },
+    { name: 'Zagreb', coords: [15.9819, 45.8131] }
+  ];
+
+  export default cities
+  
